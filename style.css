@@ -1,0 +1,134 @@
+/*section first*/
+body{
+  text-align: center;
+}
+.section-first{
+  background-color: #FF577F;
+  padding: 7%
+}
+.header{
+  color:#ffffff;
+  font-size: 4rem;
+  padding-bottom: 2rem;
+  font-family: 'Alkalami', serif;
+}
+.mobile-name{
+  color: #25316D;
+  padding-bottom: 1rem;
+  font-size: 3rem;
+}
+
+.btn{
+  padding: 2% 10%;
+  margin: 2% 4%;
+  border-radius: 1rem;
+}
+.mobile-img{
+  width: 50%;
+  transform: rotate(20deg);
+  
+}
+
+/*section-second*/
+
+.section-second{
+  padding: 5% 15%;
+
+}
+
+.icon{
+  width: 20%;
+  padding-bottom: 2rem;
+}
+
+/*sectoin-third*/
+
+.section-third{
+
+  background-color:#FF577F;
+}
+.carousel-img{
+  width: 50%;
+  padding:2rem;
+}
+/*section-fourth*/
+
+.section-fourth{
+
+}
+
+.brand{
+  width: 40%;
+  padding: 30% 2%;
+}
+
+/*section-five*/
+
+.section-five{
+background-color:#FF577F;
+text-align: center;
+}
+
+.oppo-logo{
+  width: 20%;
+  border-radius: 8rem;
+  padding: 2%;
+  margin-top: 2rem;
+}
+.logo-info{
+  font-weight: bolder;
+  padding: 3%
+}
+
+/*section-six*/
+
+.section-six{
+text-align: center;
+}
+.card-img2{
+  height: 23rem;
+}
+.card-img3{
+  height: 23rem;
+}
+.card-body{
+  background-color: yellow;
+  text-align: center;
+}
+
+/*section-seven*/
+.section-seven{
+  background-color: #FF577F;
+  text-align: center;
+}
+.form-control{
+    text-align: center;
+}
+.footer-header{
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+/*section-eight*/
+
+.section-eight{
+  text-align: center;
+}
+
+/*section-nine*/
+.section-nine{
+  text-align: center;
+  padding: 3%;
+  background-color:  #FF577F;
+}
+.end-header{
+  padding: 3%;
+}
+
+.footer-img{
+  width: 5%;
+  padding: 1%;
+}
+.oppo-mb{
+  font-size: 2rem;
+  padding-top: 2%;
+}
